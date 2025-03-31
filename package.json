@@ -1,0 +1,16 @@
+{
+  "name": "aurora",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "wds --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.6.1",
+  "devDependencies": {
+    "@web/dev-server": "^0.4.6"
+  }
+}
